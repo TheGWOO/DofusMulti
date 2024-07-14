@@ -1,6 +1,6 @@
 # GET THE LATEST RELEASE
 
-github.com/TheGWOO/DofusMulti/releases/latest
+[httpgithub.com/TheGWOO/DofusMulti/releases/latest](https://github.com/TheGWOO/DofusMulti)
 
 # FENETRE PRINCIPALE
 
