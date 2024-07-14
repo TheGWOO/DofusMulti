@@ -1,3 +1,7 @@
+# GET THE LATEST RELEASE
+
+github.com/TheGWOO/DofusMulti/releases/latest
+
 # FENETRE PRINCIPALE
 
 ![MAIN](https://github.com/user-attachments/assets/65f98cd6-c596-41d6-9920-1640c1261ca3)
