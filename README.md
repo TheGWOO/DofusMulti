@@ -41,7 +41,7 @@ D'ici vous pouvez utilisez les raccourcis pour envoyer des commandes aux personn
   - **NEXT/PREVIOUS CHARA** - passer rapidement d'un perso au suivant/précédent en fonction de l'ordre d'initiative défini
 
 ### MES CONSEILS :
-  - Pensez à ne toucher à rien pendant les grosses commande (TRAVEL, ZAAP...) pour ne pas parasiter l'envoie des commandes, attendez que la commande soit bien terminée !
+  - Pensez à ne toucher à rien pendant les grosses commande (TRAVEL, ZAAP...) pour ne pas parasiter l'envoi des commandes, attendez que la commande soit bien terminée !
   - Pensez à avoir les memes position d'interfaces, de potions, d'ensembles d'équipements, de pain etc. pour accéder à tout ça à l'aide du raccourcis de CLICK/DOUBLE CLICK !
 
 # ÉTATS
